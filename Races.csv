@@ -1,0 +1,9 @@
+Name,	Str,	Dex,	Con,	Int,	Wis,	Cha,	Any,	Size,	Speed,	Is_Core,	Vision,			Trait_1,			Trait_2,	Trait_3,	Trait_4
+Dwarf,	0,		0,		+2,		0,		+2,		-2,		0,		Medium,	20,		True,		DarkVision,		Defensive Training,	Hardy,		Stability,	-
+Elf,	0,		+2,		-2,		+2,		0,		0,		0,		Medium,	30,		True,		Low-Light Vision,Elven Immunities,	Keen Senses,		,	-
+Gnome,	-2,		0,		+2,		0,		0,		+2,		0,		Small,	20,		True,		Low-Ligh Visiont,Defensive Training,Keen Senses,Gnome Magic,-
+´Half Elf,0,		0,		0,		0,		0,		0,		+2,		Medium,	30,		True,		Low-Light Vision,Elven Immunities,Keen Senses,Adaptability,-
+Half Orc,0,		0,		0,		0,		0,		0,		+2,		Medium,	30,		True,		DarkVision,		Intimidating,		Orc Ferocity,			,-
+Halfling,-2,	+2,		0,		0,		0,		+2,		0,		Small,	20,		True,		-,				Fearless,			Keen Senses,Halfling Luck,Sure Footed
+Orc,	+4,		0,		0,		-2,		-2,		-2,		0,		Medium,	30,		False,		DarkVision,		Orc Ferocity,		-,			-,			-,-
+Human,	0,		0,		0,		0,		0,		0,		+2,		Medium,	30,		True,		-,				Bonus Feat,			Skilled,	-,			-,-
